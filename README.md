@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mary silva
-- 👀 I’m interested  estágio 
+- 👀 I’m interested  desenvolvedor RPA 
 - 🌱 I’m currently learning analis desenvolvimento  sistemas,pyton e RPA;
   
 - 📫 How to reach me email: rosymarysilva883@gmail.com ou 38998975950
