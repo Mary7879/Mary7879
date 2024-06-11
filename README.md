@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mary silva
+- 👋 Hi, I’m Rosemary silva
 - 👀 I’m interested  desenvolvedor RPA 
 - 🌱 I’m currently learning analis desenvolvimento  sistemas,pyton e RPA;
   
