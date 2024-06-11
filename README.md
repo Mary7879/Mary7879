@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rosemary
+- 👋 olá ,me chamo Rosemeiry
 - 👀 I’m interested  desenvolvedor RPA 
 - 🌱 I’m currently learning analis desenvolvimento  sistemas,pyton e RPA;
   
